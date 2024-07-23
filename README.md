@@ -3,7 +3,7 @@
 - 🔭 Atualmente desenvolvendo o **SIAD - Sistema Integrado de Atendimentos em Direitos Humanos**, na Prefeitura de São Paulo
 - 👩🏻‍💻 Análise e Desenvolvimento de Sistemas
 - 📚 **Harvard's** CS50w e Cibersegurança pela **FGV**
-- 📫 Como me contatar **cesarsarantakos@gmail.com**
+- 📫 Como me contatar: **cesarsarantakos@gmail.com**
 - ⚡ Fun fact: **tenho um beagle chamado Batata 🐶**
 
 # 💻 Tech Stack
@@ -14,9 +14,7 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) </br>
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) </br>
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+#
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cesarsarantakos&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="cesarsarantakos" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cesarsarantakos&show_icons=true&theme=dark&hide_border=true&locale=en" alt="cesarsarantakos" /></p>

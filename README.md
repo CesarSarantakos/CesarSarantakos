@@ -1,11 +1,5 @@
 <h2 align="left">Cesar Sarantakos</h2>
 
-- 🔭 Atualmente desenvolvendo o **SIAD - Sistema Integrado de Atendimentos em Direitos Humanos**, na Prefeitura de São Paulo
-- 👩🏻‍💻 Análise e Desenvolvimento de Sistemas
-- 📚 **Harvard's** CS50w e Cibersegurança pela **FGV**
-- 📫 Como me contatar: **cesarsarantakos@gmail.com**
-- ⚡ Fun fact: **tenho um beagle chamado Batata 🐶**
-
 # 💻 Tech Stack
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
